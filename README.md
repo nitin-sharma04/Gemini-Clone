@@ -1,26 +1,26 @@
-***
+
+---
 
 # 🌟 Gemini Clone  
 
-**An AI-powered Gemini Clone built using React.** Experience an interactive chatbot interface designed to simulate intelligent conversations.  
+**A simple and interactive Gemini Clone built using HTML, CSS, and JavaScript.** Experience an AI-inspired chatbot interface with a clean and responsive design.  
 
 🚀 **Live Demo:** [Gemini Clone](https://nitin-sharma04.github.io/Gemini-Clone/)  
 
-***
+---
 
 ## 🎯 Features  
-✅ **AI-Powered Responses:** Simulates intelligent and human-like conversations.  
-✅ **Interactive UI:** A sleek and modern design for a smooth user experience.  
-✅ **Real-Time Chat:** Instant responses for seamless interaction.  
-✅ **React-Based:** Built using React for dynamic and efficient rendering.  
-✅ **Fully Responsive:** Works perfectly on desktop and mobile devices.  
+✅ **Chatbot Interface:** Simulates AI-based conversations.  
+✅ **User-Friendly Design:** Clean and minimalistic UI for a smooth experience.  
+✅ **Fully Responsive:** Works seamlessly on all screen sizes.  
+✅ **Interactive Elements:** Engaging animations and dynamic content updates.  
 
 ---
 
 ## 🛠️ Technologies Used  
-🔹 **React** → Core framework for building UI components.  
-🔹 **JavaScript** → Implements logic and interactivity.  
-🔹 **HTML & CSS** → Structures and styles the chatbot interface.  
+🔹 **HTML** → Provides the structure of the chatbot.  
+🔹 **CSS** → Enhances the styling and layout.  
+🔹 **JavaScript** → Implements interactivity and chatbot functionality.  
 
 ---
 
@@ -34,15 +34,7 @@
    ```sh
    cd Gemini-Clone
    ```  
-3⃣ Install dependencies:  
-   ```sh
-   npm install
-   ```  
-4⃣ Start the development server:  
-   ```sh
-   npm start
-   ```  
-5⃣ Open [http://localhost:3000](http://localhost:3000) in your browser to use the Gemini Clone.  
+3⃣ Open `index.html` in your browser and start chatting!  
 
 ---
 
@@ -51,11 +43,11 @@ Want to improve the Gemini Clone? Fork this repo, enhance features, and submit a
 
 ---
 
-## 📜 License  
+## 📝 License  
 This project is **open-source** and free to use. Give it a ⭐ if you like it!  
 
 ---
 
-🚀 **Enjoy the AI-powered chat experience and stay tuned for updates!** 😊  
+🚀 **Enjoy the chatbot experience and stay tuned for updates!** 😊  
 
-Let me know if you want any modifications! 🚀
+Let me know if you need any modifications! 🚀
