@@ -1,4 +1,4 @@
----
+***
 
 # 🌟 Gemini Clone  
 
@@ -6,7 +6,7 @@
 
 🚀 **Live Demo:** [Gemini Clone](https://nitin-sharma04.github.io/Gemini-Clone/)  
 
----
+***
 
 ## 🎯 Features  
 ✅ **AI-Powered Responses:** Simulates intelligent and human-like conversations.  
