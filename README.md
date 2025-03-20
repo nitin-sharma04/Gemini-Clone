@@ -1,5 +1,3 @@
-Here's the README file for your **Gemini Clone** project:  
-
 ---
 
 # 🌟 Gemini Clone  
